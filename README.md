@@ -1,2 +1,2 @@
 # simple-javascript-oneliners
-My Personal Favourite Simple Valueable JavaScript Oneliners
+"Simple in actions and thoughts, you return to the source of being."
