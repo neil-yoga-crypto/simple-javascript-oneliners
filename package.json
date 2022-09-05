@@ -1,0 +1,23 @@
+{
+  "name": "simple-javascript-oneliners",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "\"Simple in actions and thoughts, you return to the source of being.\"",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neil-yoga-crypto/simple-javascript-oneliners.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neil-yoga-crypto/simple-javascript-oneliners/issues"
+  },
+  "homepage": "https://github.com/neil-yoga-crypto/simple-javascript-oneliners#readme",
+  "dependencies": {
+    "puppeteer": "^17.1.1"
+  }
+}
